@@ -1,0 +1,19 @@
+{
+  "name": "trailers",
+  "version": "1.0.0",
+  "description": "Trailer App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcerda1/Trailers.git"
+  },
+  "author": "Jeramiah Cerda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcerda1/Trailers/issues"
+  },
+  "homepage": "https://github.com/jcerda1/Trailers#readme"
+}
