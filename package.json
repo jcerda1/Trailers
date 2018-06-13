@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jcerda1/Trailers/issues"
   },
-  "homepage": "https://github.com/jcerda1/Trailers#readme"
+  "homepage": "https://github.com/jcerda1/Trailers#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
 }
