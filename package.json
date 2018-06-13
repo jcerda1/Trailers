@@ -4,7 +4,11 @@
   "description": "Trailer App",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "watch": "webpack --watch",
+    "build": "webpack",
+    "start": "webpack-dev-server --open"
+
   },
   "repository": {
     "type": "git",
@@ -18,7 +22,9 @@
   "homepage": "https://github.com/jcerda1/Trailers#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.7.0"
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.12.0",
+    "webpack-dev-server": "^3.1.4"
   },
   "dependencies": {
     "react": "^16.4.0",
