@@ -11,7 +11,7 @@ class App extends Component {
 
   render() {
   	return (
-      <div>{Hello `${this.state.name}`}</div>
+      <div>Hello World!</div>
   	)
   }
 }
